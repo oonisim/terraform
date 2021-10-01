@@ -6,7 +6,7 @@
 
 Starting point to learn Terraform.
 
-<img src="image/hashicorp_learn_terraform.png" align="left" width="800"/>
+![image info](./image/hashicorp_learn_terraform.png)
 
 ### HCL
 
