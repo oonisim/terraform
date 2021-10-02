@@ -1,5 +1,4 @@
 .idea
 **/.ipynb_checkpoints
 **/.terraform
-**/.terraform.lock.hcl
 **/terraform.tfstate*
